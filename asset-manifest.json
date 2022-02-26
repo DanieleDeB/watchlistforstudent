@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//watchlistforstudent/static/css/main.32cd41cf.css",
+    "main.js": "//watchlistforstudent/static/js/main.12ebc10c.js",
+    "static/js/787.734d5e40.chunk.js": "//watchlistforstudent/static/js/787.734d5e40.chunk.js",
+    "static/media/fa-solid-900.ttf": "//watchlistforstudent/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "//watchlistforstudent/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "//watchlistforstudent/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "//watchlistforstudent/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "//watchlistforstudent/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/fa-regular-400.woff2": "//watchlistforstudent/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/fa-v4compatibility.ttf": "//watchlistforstudent/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "//watchlistforstudent/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "//watchlistforstudent/index.html",
+    "main.32cd41cf.css.map": "//watchlistforstudent/static/css/main.32cd41cf.css.map",
+    "main.12ebc10c.js.map": "//watchlistforstudent/static/js/main.12ebc10c.js.map",
+    "787.734d5e40.chunk.js.map": "//watchlistforstudent/static/js/787.734d5e40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32cd41cf.css",
+    "static/js/main.12ebc10c.js"
+  ]
+}
